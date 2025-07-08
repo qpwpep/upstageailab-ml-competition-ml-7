@@ -268,3 +268,5 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,python,visualstudiocodecode/saved_model.pkl
 data/train.csv
+code/saved_model.pkl
+data/train.csv
